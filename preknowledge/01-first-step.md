@@ -1,6 +1,6 @@
 ---
 title: 非JS开发者的第一步
-icon: circle-info
+icon: mdi:language-markdown
 ---
 
 # 非JS开发者的第一步

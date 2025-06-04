@@ -1,6 +1,6 @@
 ---
 title: 认识Typescript-类
-icon: circle-info
+icon: mdi:language-markdown
 ---
 
 # 类

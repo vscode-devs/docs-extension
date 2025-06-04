@@ -1,6 +1,6 @@
 ---
 title: 认识TypeScript-变量和类型
-icon: circle-info
+icon: mdi:language-markdown
 ---
 
 # 认识TypeScript-变量和类型
@@ -584,5 +584,5 @@ let search = { food: "rich", ...defaults };
 
 ## 下一步
 
-- [类](./class.md) - 进一步了解TypeScript所规定的类
-- [泛型和命名空间](./generics-and-modules.md) - 进一步了解TypeScript所规定的语法
+- [类](./03-class.md) - 进一步了解TypeScript所规定的类
+- [配型接口和命名空间](./04-interface-and-namespace.md) - 进一步了解TypeScript所规定的语法

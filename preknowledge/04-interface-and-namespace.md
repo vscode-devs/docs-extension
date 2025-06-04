@@ -1,6 +1,6 @@
 ---
 title: 认识TypeScript-类型接口和命名空间
-icon: circle-info
+icon: mdi:language-markdown
 ---
 
 # 认识TypeScript-类型接口和命名空间
